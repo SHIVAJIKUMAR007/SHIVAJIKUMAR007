@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning MERN STACK and REACT NATIVE
 - 💬 Ask me about anything
 - 📫 How to reach me: official.shivaji007@gmail.com
--  visit Portfoliyo : http://bit.ly/shivajikumarportfoliyo
+-  visit Portfoliyo : https://shivaji-kumar-portfoliyo.netlify.app/
 
